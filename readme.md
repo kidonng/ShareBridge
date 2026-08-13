@@ -7,3 +7,5 @@ Android app helping you share files between apps. Currently, it fixes image file
 1. Share your image file. In QQ, open image → share (long press) → Open with other apps
 2. Choose **ShareBridge** in the share sheet
 3. Choose target app (like your favorite AI assistant) in the new share sheet
+
+https://github.com/user-attachments/assets/a89401c6-2610-43bf-ba00-d3c1f2863935
